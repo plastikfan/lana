@@ -1,0 +1,13 @@
+{
+  "go.lintTool": "golangci-lint",
+  "go.lintFlags": [
+    "--fast"
+  ],
+  "cSpell.words": [
+    "cubiest",
+    "extendio",
+    "graffico",
+    "jibberjabber",
+    "sidewalk"
+  ]
+}
