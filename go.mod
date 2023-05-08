@@ -6,7 +6,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.9.2
 	github.com/onsi/gomega v1.27.6
 	github.com/samber/lo v1.38.1
-	github.com/snivilised/extendio v0.1.10
+	github.com/snivilised/extendio v0.1.19
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.15.0
 	go.uber.org/zap v1.24.0
@@ -43,7 +43,7 @@ require (
 	github.com/subosito/gotenv v1.4.2 // indirect
 	golang.org/x/net v0.8.0 // indirect
 	golang.org/x/sys v0.6.0 // indirect
-	golang.org/x/text v0.8.0
+	golang.org/x/text v0.9.0
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
